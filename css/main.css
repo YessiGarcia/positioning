@@ -19,8 +19,8 @@ body{
 
 #azul{
 	background-color: blue;
+	left:200px;
 	position: relative;
-	left: 200px;
 }
 
 #verde{
